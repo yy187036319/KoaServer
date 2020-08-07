@@ -1,0 +1,16 @@
+{
+    "data": {
+        "id": 1698,
+        "adContentId": 2573,
+        "templateType": "1",
+        "templateContent": "{\"clickUrl\":\"https://kunyu.csdn.net?p=56&a=2573&c=1698&k=API&d=1&t=3&dest=https%3A%2F%2Fwww.agora.io%2Fcn%2Fcelebration%2F%3Futm_source%3DCSDN%26utm_medium%3Dcpc%26utm_campaign%3Ddisplay&timestamp=1595485661783&signature=49c275cbba692b00c234c5e941c2f4e73ac7b277\",\"imgUrl\":\"https://img-bss.csdn.net/1595485657627.png\",\"feedType\":\"1\"}",
+        "createBy": null,
+        "updateBy": null,
+        "createTime": null,
+        "updateTime": null,
+        "adSize": "300x250",
+        "codes": "<iframe  src=\"https://kunpeng-sc.csdnimg.cn/#/preview/1698?positionId=$$positionId$$&queryWord=$$queryWord$$\" frameborder=\"0\" width= \"300px\"  height= \"250px\" scrolling=\"no\" ></iframe><img class=\"pre-img-lasy\" data-src=\"https://kunyu.csdn.net/1.png?p=$$positionId$$&a=2573&c=1698&k=$$queryWord$$&d=1&t=3&u=$$uuid$$\">"
+    },
+    "message": "success",
+    "status": 200
+}
